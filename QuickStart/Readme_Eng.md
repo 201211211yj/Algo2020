@@ -9,11 +9,13 @@ Download the bot template and simulator. The simulator contains a track, and the
 
 If you have an error with IE, Use chrome or Edge browser instead.
 
-Download the link below (BOT Teamplate)
+Download the link below (BOT Teamplate) (V2.0 Release, 2020/07/29)
 1. https://drive.google.com/drive/folders/1j2CM232G8chkYFdCjf2W7Rn4nLAubQwS?usp=sharing
 2. https://drive.google.com/drive/folders/1Dh6JMQ9z-aQFIrFjnC3WvRBaTcVViTzJ?usp=sharing
 3. https://drive.google.com/drive/folders/1QlsxxmCk3p103S7Q1smnLifLnCOoX0fS?usp=sharing
 4. https://drive.google.com/drive/folders/1lvlb7RXi_cvYoD2oM1eh32luK7iCpWi6?usp=sharing
+
+<br>
 
 Download where you can download from the link below.
 1.  https://drive.google.com/drive/folders/1aB7uDYu3Maf3zcMCYBuEb7HRT0RCxNXt?usp=sharing
